@@ -1,2 +1,2 @@
 # CPE-practice
-CPE題目與參考解答 (C++)
+CPE參考解答 (C++)
